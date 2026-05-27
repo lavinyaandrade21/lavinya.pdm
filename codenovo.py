@@ -49,7 +49,7 @@ with col_left:
         ">
         """, unsafe_allow_html=True)
 
-        st.image("dino2026.png", width=800)
+        st.image("foto.jpg", width=800)
 
         st.markdown("</div>", unsafe_allow_html=True)
 
@@ -63,11 +63,9 @@ with col_left:
             width: 100%;
             max-width: none;
         ">
-            <b>Sobre Dinaldo:<br>
-            Dinaldo Jorge, 49 anos, é um profissional experiente na área de sistemas de telecomunicações,
-            destacando-se pela sólida formação técnica e expertise em infraestrutura de rede, conectividade
-            e suporte de TI.Com vasta vivência no mercado, busca posições que exijam soluções inovadoras em
-            redes, segurança digital e administração de sistemas.
+            <b>Sobre Lavínya:<br>
+                Lavínya de Andrade, 16 anos, estudante de Informática no IFPB - Campus Itabaiana,
+           nascida em João Pessoa-PB e residente da cidade de Itabaiana.
         </div>
         """, unsafe_allow_html=True)
 
